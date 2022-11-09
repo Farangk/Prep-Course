@@ -1,0 +1,31 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(8deg, rgba(2,0,36,1) 9%, rgba(9,121,80,0.5326330361246061) 45%, rgba(0,212,255,1) 79%); ; 
+}
+
+h1{
+    color:blue; 
+}
+
+img{
+    width: 400px; 
+}
+
+#ThirdDiv{
+    height: 600px;
+    width: 500px; 
+    padding: 50px; 
+    display: flex;
+
+}
+#spanID{
+    font-size: 18px;
+    margin:50px;
+}
+ul{
+    align-items: center;
+}
+
+div{
+    text-align: center; 
+}
